@@ -92,6 +92,7 @@ function Activate() {
                     }
                     break;
                     case 5:
+            alert(hr);
                         // var columnday1 = document.querySelector('table#cat1programs td#Fri');
                         // columnday1.innerHTML = 'Friday <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                         // var columnday2 = document.querySelector('table#cat2programs td#Fri');
