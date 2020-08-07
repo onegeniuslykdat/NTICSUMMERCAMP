@@ -107,7 +107,7 @@ function Activate() {
                         else if (hr == 12 && hr <= 1) {
                             document.querySelector('table#cat1programs td#Fri3').style.backgroundColor = 'red'; 
                         }
-                        else if (hr == 15) {
+                        else if (hr == 3) {
                             document.querySelector('table#cat1programs td#Fri4').style.backgroundColor = 'red'; 
                         }
                     break;
