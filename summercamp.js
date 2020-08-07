@@ -6,6 +6,9 @@ var min = date.getMinutes();
 var hr = date.getHours();
 var dy = date.getDay();
 
+alert(dy);
+alert(hr);
+
 function Activate() {
     switch (dy) {
         case 1:
