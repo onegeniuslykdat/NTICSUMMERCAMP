@@ -1,6 +1,6 @@
 # NTICSUMMERCAMP
 
-<!DOCTYPE html>
+<!--<!DOCTYPE html>-->
 <html>
 <head>
   <title>NTIC SUMMER CAMP PROGRAMS SCHEDULE</title>
