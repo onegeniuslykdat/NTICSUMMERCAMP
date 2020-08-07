@@ -38,33 +38,33 @@
                   <tr>
                       <td>10:30-11:00</td>
                       <td id="Mon1">Fitness & Dance | Mr. Rasheed</td>
-                      <td id="Tues1">FolkLore |</td>
+                      <td id="Tues1">FolkLore | Mrs. Kehinde</td>
                       <td id="Wed1">Fitness & Dance | Mr. Rasheed</td>
-                      <td id="Thur1">Pastry |</td>
+                      <td id="Thur1">Pastry | Mrs. Bidemi, Mrs. Kozan</td>
                       <td id="Fri1">Fitness & Dance | Mr. Rasheed</td>
                   </tr>
                   <tr>
                     <td> 11:20-12:00</td>
                     <td id="Mon2"><div>Mental Arithmetic | Mr. Felai | Mrs. Amos</div></div>(Ages 8-10, 11+)</div></td>
-                    <td id="Tues2"><div>Creative Thinking & Writing | |</div></div>(Ages 5-7, 8-10)</div></td>
+                    <td id="Tues2"><div>Creative Thinking & Writing | Mrs. Taiwo | Mrs. Gladys</div></div>(Ages 5-7, 8-10)</div></td>
                     <td id="Wed2"><div>Coding | Mr. U (Ages 8-10)</div><div>Mental Arithmetic | Mr. Felai (Ages 5-7)</div></td>
-                    <td id="Thur2"><div>Fun Science | Mrs. Suliat (Ages 5-10)</div></div>*Coding | Mr. U (Ages 11+)</div></td>
-                    <td id="Fri2"><div>*Fun Science | Mrs. Fauziah </div><div>(Ages 11+)</div></td>
+                    <td id="Thur2"><div>Fun Science | Mrs. Suliat (Ages 5-10)</div></div>Coding | Mr. U (Ages 11+)</div></td>
+                    <td id="Fri2"><div>Fun Science | Mrs. Fauziah </div><div>(Ages 11+)</div></td>
                 </tr>
                 <tr>
                     <td>12:10-12:50</td>
-                    <td id="Mon3"><div>Art & Craft | (Ages 11+)</div></div>Mental Arithmetic | Mr. Felai (Ages 5-7)</div></td>
+                    <td id="Mon3"><div>Art & Craft | Mr. Tunde (Ages 11+)</div></div>Mental Arithmetic | Mr. Felai (Ages 5-7)</div></td>
                     <td id="Tues3"><div>Coding | Mr. U (Ages 11+)</div><div>Mental Arithmetic | Mr. Felai (Ages 8-10)</div></td>
-                    <td id="Wed3"><div>Art & Craft | (Ages 8-10)</div><div>Mental Arithmetic | Mrs. Amos (Ages 11+)</div></td>
-                    <td id="Thur3"><div>Creative Thinking & Writing | (Ages 11+)</div></div>Coding | Mr. U (Ages 5-7)</div></td>
-                    <td id="Fri3">Virtual Vacation</td>
+                    <td id="Wed3"><div>Art & Craft | Mr. Tunde (Ages 8-10)</div><div>Mental Arithmetic | Mrs. Amos (Ages 11+)</div></td>
+                    <td id="Thur3"><div>Creative Thinking & Writing | Miss. Bisi (Ages 11+)</div></div>Coding | Mr. U (Ages 5-7)</div></td>
+                    <td id="Fri3">Virtual Vacation | Mrs. Thomas, Mrs. Taiwo</td>
                 </tr>
                 <tr>
                     <td>1:00-1:40</td>
-                    <td id="Mon4"><div>Art & Craft | (Ages 5-7)</div></div>Coding | Mr. U (Ages 8-10)</div></td>
-                    <td id="Tues4"><div>Literary Artistry | (Ages 5-7)</div></div>Word Skill | (Ages 11+)</div></td>
-                    <td id="Wed4"><div>Literary Artistry | (Ages 8-10)</div></div>Word Skill | (Ages 5-7)</div></td>
-                    <td id="Thur4"><div>Literary Artistry | (Ages 11+)</div></div>Word Skill | (Ages 8-10)</div></td>
+                    <td id="Mon4"><div>Art & Craft | Mr. Tunde (Ages 5-7)</div></div>Coding | Mr. U (Ages 8-10)</div></td>
+                    <td id="Tues4"><div>Literary Artistry | Mrs. Tammy (Ages 5-7)</div></div>Word Skill | Miss. Bisi (Ages 11+)</div></td>
+                    <td id="Wed4"><div>Literary Artistry | Mrs. Tammy (Ages 8-10)</div></div>Word Skill | Mrs. Taiwo (Ages 5-7)</div></td>
+                    <td id="Thur4"><div>Literary Artistry | Mrs. Tammy (Ages 11+)</div></div>Word Skill | Mrs. Gladys (Ages 8-10)</div></td>
                     <td id="Fri4">Story Telling or Special Talent</td>
                 </tr>
               </tbody>
