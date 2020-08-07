@@ -10,7 +10,7 @@
 </head>
 <body>
     <ul class="navigation">
-        <li><img src="/logo.png" height="70pxpx;"></li>
+        <li><img src="logo.png" height="70pxpx;"></li>
         <li class="active"><a href="SummercampTimetable.html">HOME</a></li>
         <li><a href="#Cat1">Ages: 5-7</a></li>
         <li><a href="#Cat2">Ages: 8-10</a></li>
