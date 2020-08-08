@@ -14,7 +14,8 @@ a {
   box-sizing: border-box;
   background-color: #f5e8e2;
   overflow: auto;
-  padding: 18px 50px;
+  /*padding: 1px 5px;*/
+  padding-bottom: 0.1px;
   position: fixed;
   top: 0;
   width: 100%;
@@ -54,7 +55,8 @@ table {
 }
 
 table, td {
-  border: 1px solid #3587A4
+  border: 1px solid #3587A4;
+  font-size: 12px;
 }
 
 thead th {
