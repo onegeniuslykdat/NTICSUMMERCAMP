@@ -28,7 +28,7 @@
               </thead>
               <tbody>
                   <tr>
-                      <td>Days/Times</td>
+                      <td>Days/Times (GMT +1) (West Africa)</td>
                       <td id="Monday">Monday</td>
                       <td id="Tuesday">Tuesday</td>
                       <td id="Wednesday">Wednesday</td>
@@ -82,7 +82,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Days/Times</td>
+                    <td>Days/Times (GMT +1) (West Africa)</td>
                     <td id="Mon">Monday</td>
                     <td id="Tues">Tuesday </td>
                     <td id="Wed">Wednesday</td>
@@ -136,7 +136,7 @@
               </thead>
               <tbody>
                   <tr>
-                      <td>Days/Times</td>
+                      <td>Days/Times (GMT +1) (West Africa)</td>
                       <td id="Mon">Monday</td>
                       <td id="Tues">Tuesday</td>
                       <td id="Wed">Wednesday</td>
@@ -190,7 +190,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Days/Times</td>
+                    <td>Days/Times  (GMT +1) (West Africa)</td>
                     <td id="Mon">Monday</td>
                     <td id="Tues">Tuesday</td>
                     <td id="Wed">Wednesday</td>
@@ -210,8 +210,8 @@
                   <td id="Mon2">Mental Arithmetic</td>
                   <td id="Tues2"></td>
                   <td id="Wed2"></td>
-                  <td id="Thur2">Fun Science (Ages 10+)</td>
-                  <td id="Fri2">Coding</td>
+                  <td id="Thur2">Coding</td>
+                  <td id="Fri2">Fun Science (Ages 10+)</td>
               </tr>
               <tr>
                   <td>12:10-12:50</td>
