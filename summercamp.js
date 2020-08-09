@@ -162,7 +162,7 @@ function Activate() {
                         document.querySelector('table#cat3programs td#Thur4').style.backgroundColor = 'lightgreen';
                     }
                     break;
-                    case 6:
+                    case 7:
                         if (hr == 7 && hr <= 11/*min <= 59*/) {
                             document.querySelector('table#cat1programs td#Fri1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
                             document.querySelector('table#cat2programs td#Fri1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
@@ -172,7 +172,7 @@ function Activate() {
                             document.querySelector('table#cat2programs td#Fri1').style.backgroundColor = 'lightgreen';
                             document.querySelector('table#cat3programs td#Fri1').style.backgroundColor = 'lightgreen'; 
                         }
-                        else if (hr == 22 && hr <= 32) {
+                        else if (hr == 11 && hr <= 12) {
                             //document.querySelector('table#cat1programs td#Fri2').innerHTML = 'Fun Science (Ages 11+) <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
                             //document.querySelector('table#cat2programs td#Fri2').innerHTML = 'Fun Science (Ages 11+) <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
                             document.querySelector('table#cat3programs td#Fri2').innerHTML = 'Fun Science (Ages 11+) <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
@@ -205,4 +205,4 @@ function Activate() {
     }
 }
 
-setInterval(Activate()); //document.querySelector('table#cat1programs td#Mon1').style.backgroundColor = 'coral'; .innerHTML = 'Monday <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
+setInterval(Activate(), 1000); //document.querySelector('table#cat1programs td#Mon1').style.backgroundColor = 'coral'; .innerHTML = 'Monday <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
