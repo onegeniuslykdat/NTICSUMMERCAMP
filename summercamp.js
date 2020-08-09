@@ -162,7 +162,7 @@ function Activate() {
                         document.querySelector('table#cat3programs td#Thur4').style.backgroundColor = 'lightgreen';
                     }
                     break;
-                    case 5:
+                    case 0:
                         if (hr == 19 /*&& hr < 11 min <= 59*/) {
                             document.querySelector('table#cat1programs td#Fri1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
                             document.querySelector('table#cat2programs td#Fri1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
