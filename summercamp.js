@@ -11,7 +11,7 @@ var dy = date.getUTCDay();//getDay();
 function Activate() {
     switch (dy) {
         case 1:
-           if (hr == 10 && hr < 11/*min <= 59*/) {
+           if (hr == 10 && hr < 11) {
                 document.querySelector('table#cat1programs td#Mon1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                 document.querySelector('table#cat2programs td#Mon1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                 document.querySelector('table#cat3programs td#Mon1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -38,7 +38,7 @@ function Activate() {
                 document.querySelector('table#cat2programs td#Mon3').style.backgroundColor = 'lightgreen';
                 document.querySelector('table#cat3programs td#Mon3').style.backgroundColor = 'lightgreen';
             }
-            else if (hr == 16 && min >= 2 || hr == 17) {
+            else if (hr == 12 && min >= 52 || hr == 13) {
                 document.querySelector('table#cat1programs td#Mon4').innerHTML = 'Art & Craft <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                 document.querySelector('table#cat2programs td#Mon4').innerHTML = 'Coding <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                 //document.querySelector('table#cat3programs td#Mon4').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -49,7 +49,7 @@ function Activate() {
             }
             break;
             case 2:
-                if (hr == 10 && hr < 11/*min <= 59*/) {
+                if (hr == 10 && hr < 11) {
                     document.querySelector('table#cat1programs td#Tues1').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat2programs td#Tues1').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat3programs td#Tues1').innerHTML = 'Folklore <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -76,7 +76,7 @@ function Activate() {
                     document.querySelector('table#cat2programs td#Tues3').style.backgroundColor = 'lightgreen'; 
                     document.querySelector('table#cat3programs td#Tues3').style.backgroundColor = 'lightgreen'; 
                 }
-                else if (hr == 13) {
+                else if (hr == 12 && min >= 52 || hr == 13) {
                     document.querySelector('table#cat1programs td#Tues4').innerHTML = 'Literary Artistry <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     //document.querySelector('table#cat2programs td#Tues4').innerHTML = 'Literary Artistry <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat3programs td#Tues4').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -87,7 +87,7 @@ function Activate() {
                 }
                 break;
             case 3:
-                if (hr == 10 && hr < 11/*min <= 59*/) {
+                if (hr == 10 && hr < 11) {
                     document.querySelector('table#cat1programs td#Wed1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat2programs td#Wed1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat3programs td#Wed1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -114,7 +114,7 @@ function Activate() {
                     document.querySelector('table#cat2programs td#Wed3').style.backgroundColor = 'lightgreen'; 
                     document.querySelector('table#cat3programs td#Wed3').style.backgroundColor = 'lightgreen';  
                 }
-                else if (hr == 13) {
+                else if (hr == 12 && min >= 52 || hr == 13) {
                     document.querySelector('table#cat1programs td#Wed4').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat2programs td#Wed4').innerHTML = 'Literary Artistry <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     //document.querySelector('table#cat3programs td#Wed4').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -125,7 +125,7 @@ function Activate() {
                 }
                 break;
                 case 4:
-                    if (hr == 10 && hr < 11/*min <= 59*/) {
+                    if (hr == 10 && hr < 11) {
                         document.querySelector('table#cat1programs td#Thur1').innerHTML = 'Pastry <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
                         document.querySelector('table#cat2programs td#Thur1').innerHTML = 'Pastry <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
                         document.querySelector('table#cat3programs td#Thur1').innerHTML = 'Pastry <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
@@ -152,7 +152,7 @@ function Activate() {
                         document.querySelector('table#cat2programs td#Thur3').style.backgroundColor = 'lightgreen';
                         document.querySelector('table#cat3programs td#Thur3').style.backgroundColor = 'lightgreen';
                     }
-                    else if (hr == 13) {
+                    else if (hr == 12 && min >= 52 || hr == 13) {
                         //document.querySelector('table#cat1programs td#Thur4').innerHTML = 'Literary Artistry <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
                         document.querySelector('table#cat2programs td#Thur4').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
                         document.querySelector('table#cat3programs td#Thur4').innerHTML = 'Literary Artistry <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
@@ -190,7 +190,7 @@ function Activate() {
                             document.querySelector('table#cat2programs td#Fri3').style.backgroundColor = 'lightgreen';
                             document.querySelector('table#cat3programs td#Fri3').style.backgroundColor = 'lightgreen';  
                         }
-                        else if (hr == 13) {
+                        else if (hr == 12 && min >= 52 || hr == 13) {
                             document.querySelector('table#cat1programs td#Fri4').innerHTML = 'Story Telling or Special Talent <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
                             document.querySelector('table#cat2programs td#Fri4').innerHTML = 'Story Telling or Special Talent <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
                             document.querySelector('table#cat3programs td#Fri4').innerHTML = 'Story Telling or Special Talent <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
