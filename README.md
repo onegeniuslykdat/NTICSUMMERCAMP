@@ -1,10 +1,11 @@
-<!--<!DOCTYPE html>-->
+<!DOCTYPE html>
 <html>
 <head>
-  <title>NTIC SUMMER CAMP PROGRAMS SCHEDULE</title>
-  <link href="https://fonts.googleapis.com/css?family=Lato: 100,300,400,700|Luckiest+Guy|Oxygen:300,400" rel="stylesheet">
-  <link href="summercamp.css" type="text/css" rel="stylesheet">
-  <script src="summercamp.js" defer></script>
+    <meta name="viewport" content="width=device-width">
+    <title>NTIC SUMMER CAMP PROGRAMS SCHEDULE</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato: 100,300,400,700|Luckiest+Guy|Oxygen:300,400" rel="stylesheet">
+    <link href="summercamp.css" type="text/css" rel="stylesheet">
+    <script src="summercamp.js" defer></script>
 </head>
 <body>
     <ul class="navigation">
@@ -29,42 +30,44 @@
               <tbody>
                   <tr>
                       <td>Days/Times <br> (GMT +1) | (West Africa)</td>
-                      <td id="Monday">Monday</td>
-                      <td id="Tuesday">Tuesday</td>
-                      <td id="Wednesday">Wednesday</td>
-                      <td id="Thursday">Thursday</td>
-                      <td id="Friday">Friday</td>
+                      <td id="Time1">10:30-11:00</td>
+                      <td id="Time2">11:20-12:00</td>
+                      <td id="Time3">12:10-12:50</td>
+                      <td id="Time4">1:00-1:40</td>
                   </tr>
                   <tr>
-                      <td>10:30-11:00</td>
-                      <td id="Mon1">Fitness & <span style="font-size: 10px;">Dance</span> | <br> Mr. Rasheed</td>
-                      <td id="Tues1">FolkLore | <br> Ms. Kehinde</td>
-                      <td id="Wed1">Fitness & Dance | <br> Mr. Rasheed</td>
-                      <td id="Thur1">Pastry | <br> Ms. Bidemi, Ms. Kozan</td>
-                      <td id="Fri1">Fitness & Dance | <br> Mr. Rasheed</td>
+                      <td>Monday</td>
+                      <td id="Mon1">Fitness & <span style="font-size: 13px;">Dance</span> | <br> Mr. Rasheed</td>
+                      <td id="Mon2">Mental Arithmetic | <br> Mr. Felai | Ms. Amos | <br> (Ages 8-10, 11+)</td>
+                      <td id="Mon3">Art & Craft | Mr. Tunde | <br> (Ages 11+) | <br> Mental Arithmetic | <br> Mr. Felai | (Ages 5-7)</td>
+                      <td id="Mon4">Art & Craft | Mr. Tunde | <br> (Ages 5-7) | <br> Coding | Mr. U | (Ages 8-10)</td>
                   </tr>
                   <tr>
-                    <td> 11:20-12:00</td>
-                    <td id="Mon2">Mental Arithmetic | <br> Mr. Felai | Ms. Amos | <br> (Ages 8-10, 11+)</td>
+                    <td>Tuesday</td>
+                    <td id="Tues1">FolkLore | <br> Ms. Kehinde</td>
                     <td id="Tues2">Creative <span style="font-size: 10px;"> Thinking & Writing </span> | <br> Ms. Taiwo | Ms. Gladys | <br> (Ages 5-7, 8-10)</td>
-                    <td id="Wed2">Coding | Mr. U | (Ages 8-10) | <br> Mental Arithmetic | Mr. Felai | (Ages 5-7)</td>
-                    <td id="Thur2">Fun Science | Ms. Suliat | <br> (Ages 5-10) | <br> Coding | Mr. U | (Ages 11+)</td>
-                    <td id="Fri2">Fun Science | Ms. Fauziah (Ages 11+)</td>
-                </tr>
-                <tr>
-                    <td>12:10-12:50</td>
-                    <td id="Mon3">Art & Craft | Mr. Tunde | <br> (Ages 11+) | <br> Mental Arithmetic | <br> Mr. Felai | (Ages 5-7)</td>
-                    <td id="Tues3">Coding | Mr. U | (Ages 11+) | <br> Mental Arithmetic | <br> Mr. Felai | (Ages 8-10)</td>
-                    <td id="Wed3">Art & Craft | Mr. Tunde | <br> (Ages 8-10) | <br> Mental Arithmetic | <br> Ms. Amos | (Ages 11+)</td>
-                    <td id="Thur3">Creative <span style="font-size: 10px;"> Thinking & Writing </span> | <br> Ms. Bisi | (Ages 11+) Coding | Mr. U | (Ages 5-7)</td>
-                    <td id="Fri3">Virtual Vacation | <br> Ms. Thomas, Ms. Taiwo</td>
-                </tr>
-                <tr>
-                    <td>1:00-1:40</td>
-                    <td id="Mon4">Art & Craft | Mr. Tunde | <br> (Ages 5-7) | <br> Coding | Mr. U | (Ages 8-10)</td>
+                    <td id="Tues3">Coding | Mr. U | (Ages 11+) | <br> Mental Arithmetic | Mr. Felai | (Ages 8-10)</td>
                     <td id="Tues4">Literary Artistry | <br> Ms. Tammy | (Ages 5-7) | <br> Word Skill | Miss. Bisi | <br> (Ages 11+)</td>
+                </tr>
+                <tr>
+                    <td>Wednesday</td>
+                    <td id="Wed1">Fitness & <span style="font-size: 13px;">Dance</span> | <br> Mr. Rasheed</td>
+                    <td id="Wed2">Coding | Mr. U | (Ages 8-10) | <br> Mental Arithmetic | <br> Mr. Felai | (Ages 5-7)</td>
+                    <td id="Wed3">Art & Craft | Mr. Tunde | <br> (Ages 8-10) | <br> Mental Arithmetic | <br> Ms. Amos | (Ages 11+)</td>
                     <td id="Wed4">Literary Artistry | <br> Ms. Tammy | (Ages 8-10) | <br> Word Skill | Mrs. Taiwo | <br> (Ages 5-7)</td>
+                </tr>
+                <tr>
+                    <td>Thursday</td>
+                    <td id="Thur1">Pastry | <br> Ms. Bidemi, Ms. Kozan</td>
+                    <td id="Thur2">Fun Science | <br> Ms. Suliat | (Ages 5-10) | <br> Coding | Mr. U | <br> (Ages 11+)</td>
+                    <td id="Thur4">Creative <span style="font-size: 10px;"> Thinking & Writing </span> | <br> Ms. Bisi | (Ages 11+) | <br> Coding | Mr. U | <br> (Ages 5-7)</td>
                     <td id="Thur4">Literary Artistry | <br> Mrs. Tammy | (Ages 11+) | <br> Word Skill | Mrs. Gladys | <br> (Ages 8-10)</td>
+                </tr>
+                <tr>
+                    <td>Friday</td>
+                    <td id="Fri1">Fitness & <span style="font-size: 13px;">Dance</span> | <br> Mr. Rasheed</td>
+                    <td id="Fri2">Fun Science | <br> Ms. Fauziah | (Ages 11+)</td>
+                    <td id="Fri3">Virtual Vacation | <br> Ms. Thomas, Ms. Taiwo</td>
                     <td id="Fri4">Story Telling/Special Talent</td>
                 </tr>
               </tbody>
@@ -83,42 +86,44 @@
             <tbody>
                 <tr>
                     <td>Days/Times <br> (GMT +1) | (West Africa)</td>
-                    <td id="Mon">Monday</td>
-                    <td id="Tues">Tuesday </td>
-                    <td id="Wed">Wednesday</td>
-                    <td id="Thur">Thursday</td>
-                    <td id="Fri">Friday</td>
+                    <td id="Time1">10:30-11:00</td>
+                    <td id="Time2">11:20-12:00</td>
+                    <td id="Time3">12:10-12:50</td>
+                    <td id="Time4">1:00-1:40</td>
                 </tr>
                 <tr>
-                    <td>10:30-11:00</td>
+                    <td>Monday</td>
                     <td id="Mon1">Fitness & Dance</td>
-                    <td id="Tues1">FolkLore</td>
-                    <td id="Wed1">Fitness & Dance</td>
-                    <td id="Thur1">Pastry</td>
-                    <td id="Fri1">Fitness & Dance</td>
+                    <td id="Mon2"></td>
+                    <td id="Mon3">Mental Arithmetic</td>
+                    <td id="Mon4">Art & Craft</td>
                 </tr>
                 <tr>
-                  <td> 11:20-12:00</td>
-                  <td id="Mon2"></td>
+                  <td>Tuesday</td>
+                  <td id="Tues1">FolkLore</td>
                   <td id="Tues2">Creative Thinking & Writing</td>
-                  <td id="Wed2">Mental Arithmetic</td>
-                  <td id="Thur2">Fun Science (Ages 5-9)</td>
-                  <td id="Fri2"></td>
-              </tr>
-              <tr>
-                  <td>12:10-12:50</td>
-                  <td id="Mon3">Mental Arithmetic</td>
                   <td id="Tues3"></td>
-                  <td id="Wed3"></td>
-                  <td id="Thur3">Coding</td>
-                  <td id="Fri3">Virtual Vacation</td>
+                  <td id="Tues4">Literary Artistry</td>
               </tr>
               <tr>
-                  <td>1:00-1:40</td>
-                  <td id="Mon4">Art & Craft</td>
-                  <td id="Tues4">Literary Artistry</td>
+                  <td>Wednesday</td>
+                  <td id="Wed1">Fitness & Dance</td>
+                  <td id="Wed2">Mental Arithmetic</td>
+                  <td id="Wed3"></td>
                   <td id="Wed4">Word Skill</td>
+              </tr>
+              <tr>
+                  <td>Thursday</td>
+                  <td id="Thur1">Pastry</td>
+                  <td id="Thur2">Fun Science (Ages 5-10)</td>
+                  <td id="Thur4">Coding</td>
                   <td id="Thur4"></td>
+              </tr>
+              <tr>
+                  <td>Friday</td>
+                  <td id="Fri1">Fitness & Dance</td>
+                  <td id="Fri2"></td>
+                  <td id="Fri3">Virtual Vacation</td>
                   <td id="Fri4">Story Telling/Special Talent</td>
               </tr>
             </tbody>
@@ -135,46 +140,48 @@
                   </tr>
               </thead>
               <tbody>
-                  <tr>
-                      <td>Days/Times <br> (GMT +1) | (West Africa)</td>
-                      <td id="Mon">Monday</td>
-                      <td id="Tues">Tuesday</td>
-                      <td id="Wed">Wednesday</td>
-                      <td id="Thur">Thursday</td>
-                      <td id="Fri">Friday</td>
-                  </tr>
-                  <tr>
-                      <td>10:30-11:00</td>
-                      <td id="Mon1">Fitness & Dance</td>
-                      <td id="Tues1">FolkLore</td>
-                      <td id="Wed1">Fitness & Dance</td>
-                      <td id="Thur1">Pastry</td>
-                      <td id="Fri1">Fitness & Dance</td>
-                  </tr>
-                  <tr>
-                    <td> 11:20-12:00</td>
+                <tr>
+                    <td>Days/Times <br> (GMT +1) | (West Africa)</td>
+                    <td id="Time1">10:30-11:00</td>
+                    <td id="Time2">11:20-12:00</td>
+                    <td id="Time3">12:10-12:50</td>
+                    <td id="Time4">1:00-1:40</td>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td id="Mon1">Fitness & Dance</td>
                     <td id="Mon2">Mental Arithmetic</td>
-                    <td id="Tues2">Creative Thinking & Writing</td>
-                    <td id="Wed2">Coding</td>
-                    <td id="Thur2">Fun Science (Ages 8-9, 10+)</td>
-                    <td id="Fri2"></td>
-                </tr>
-                <tr>
-                    <td>12:10-12:50</td>
                     <td id="Mon3"></td>
-                    <td id="Tues3">Mental Arithmetic</td>
-                    <td id="Wed3">Art & Craft</td>
-                    <td id="Thur3"></td>
-                    <td id="Fri3">Virtual Vacation</td>
+                    <td id="Mon4">Coding</td>
                 </tr>
                 <tr>
-                    <td>1:00-1:40</td>
-                    <td id="Mon4">Coding</td>
-                    <td id="Tues4"></td>
-                    <td id="Wed4">Literary Artistry</td>
-                    <td id="Thur4">Word Skill</td>
-                    <td id="Fri4">Story Telling/Special Talent</td>
-                </tr>
+                  <td>Tuesday</td>
+                  <td id="Tues1">FolkLore</td>
+                  <td id="Tues2">Creative Thinking & Writing</td>
+                  <td id="Tues3">Mental Arithmetic</td>
+                  <td id="Tues4"></td>
+              </tr>
+              <tr>
+                  <td>Wednesday</td>
+                  <td id="Wed1">Fitness & Dance</td>
+                  <td id="Wed2">Coding</td>
+                  <td id="Wed3">Art & Craft</td>
+                  <td id="Wed4">Literary Artistry</td>
+              </tr>
+              <tr>
+                  <td>Thursday</td>
+                  <td id="Thur1">Pastry</td>
+                  <td id="Thur2">Fun Science (Ages 5-10)</td>
+                  <td id="Thur4"></td>
+                  <td id="Thur4">Word Skill</td>
+              </tr>
+              <tr>
+                  <td>Friday</td>
+                  <td id="Fri1">Fitness & Dance</td>
+                  <td id="Fri2"></td>
+                  <td id="Fri3">Virtual Vacation</td>
+                  <td id="Fri4">Story Telling/Special Talent</td>
+              </tr>
               </tbody>
           </table>
       </div>
@@ -191,42 +198,44 @@
             <tbody>
                 <tr>
                     <td>Days/Times <br> (GMT +1) | (West Africa)</td>
-                    <td id="Mon">Monday</td>
-                    <td id="Tues">Tuesday</td>
-                    <td id="Wed">Wednesday</td>
-                    <td id="Thur">Thursday</td>
-                    <td id="Fri">Friday</td>
+                    <td id="Time1">10:30-11:00</td>
+                    <td id="Time2">11:20-12:00</td>
+                    <td id="Time3">12:10-12:50</td>
+                    <td id="Time4">1:00-1:40</td>
                 </tr>
                 <tr>
-                    <td>10:30-11:00</td>
+                    <td>Monday</td>
                     <td id="Mon1">Fitness & Dance</td>
-                    <td id="Tues1">FolkLore</td>
-                    <td id="Wed1">Fitness & Dance</td>
-                    <td id="Thur1">Pastry</td>
-                    <td id="Fri1">Fitness & Dance</td>
+                    <td id="Mon2">Mental Arithmetic</td>
+                    <td id="Mon3">Art & Craft</td>
+                    <td id="Mon4"></td>
                 </tr>
                 <tr>
-                  <td> 11:20-12:00</td>
-                  <td id="Mon2">Mental Arithmetic</td>
+                  <td>Tuesday</td>
+                  <td id="Tues1">FolkLore</td>
                   <td id="Tues2"></td>
-                  <td id="Wed2"></td>
-                  <td id="Thur2">Coding</td>
-                  <td id="Fri2">Fun Science (Ages 10+)</td>
-              </tr>
-              <tr>
-                  <td>12:10-12:50</td>
-                  <td id="Mon3">Art & Craft</td>
                   <td id="Tues3">Coding</td>
-                  <td id="Wed3">Mental Arithmetic</td>
-                  <td id="Thur3">Creative Thinking & Writing</td>
-                  <td id="Fri3">Virtual Vacation</td>
+                  <td id="Tues4">Word Skill</td>
               </tr>
               <tr>
-                  <td>1:00-1:40</td>
-                  <td id="Mon4"></td>
-                  <td id="Tues4">Word Skill</td>
+                  <td>Wednesday</td>
+                  <td id="Wed1">Fitness & Dance</td>
+                  <td id="Wed2"></td>
+                  <td id="Wed3">Mental Arithmetic</td>
                   <td id="Wed4"></td>
+              </tr>
+              <tr>
+                  <td>Thursday</td>
+                  <td id="Thur1">Pastry</td>
+                  <td id="Thur2">Coding</td>
+                  <td id="Thur4">Creative Thinking & Writing</td>
                   <td id="Thur4">Literary Artistry</td>
+              </tr>
+              <tr>
+                  <td>Friday</td>
+                  <td id="Fri1">Fitness & Dance</td>
+                  <td id="Fri2">Fun Science</td>
+                  <td id="Fri3">Virtual Vacation</td>
                   <td id="Fri4">Story Telling/Special Talent</td>
               </tr>
             </tbody>
