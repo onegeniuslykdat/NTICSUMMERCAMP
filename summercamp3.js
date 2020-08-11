@@ -43,15 +43,15 @@ function Activate() {
             else if (hr == 12 && min >= 52 || hr == 13) {
                 //document.querySelector('table#cat1programs td#Mon4').innerHTML = 'Art & Craft <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                 //document.querySelector('table#cat2programs td#Mon4').innerHTML = 'Coding <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
-                document.querySelector('table#cat3programs td#Mon4').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
+                //document.querySelector('table#cat3programs td#Mon4').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                        
                 //document.querySelector('table#cat1programs td#Mon4').style.backgroundColor = 'lightgreen'; 
                 //document.querySelector('table#cat2programs td#Mon4').style.backgroundColor = 'lightgreen';
-                document.querySelector('table#cat3programs td#Mon4').style.backgroundColor = 'lightgreen';
+                //document.querySelector('table#cat3programs td#Mon4').style.backgroundColor = 'lightgreen';
             }
             break;
             case 2:
-                if (hr == 17/*10 && hr < 11*/) {
+                if (hr == 18/*10 && hr < 11*/) {
                     //text = document.querySelector('table#catprograms td#Tues1').textContent;
                     
                     //document.querySelector('table#cat1programs td#Tues1').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -69,11 +69,11 @@ function Activate() {
                     
                     //document.querySelector('table#cat1programs td#Tues2').innerHTML = 'Creative Thinking & Writing <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     //document.querySelector('table#cat2programs td#Tues2').innerHTML = 'Creative Thinking & Writing <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
-                    document.querySelector('table#cat3programs td#Tues2').innerHTML = 'Coding <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
+                    //document.querySelector('table#cat3programs td#Tues2').innerHTML = 'Coding <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
 
                     //document.querySelector('table#cat1programs td#Tues2').style.backgroundColor = 'lightgreen'; 
                     //document.querySelector('table#cat2programs td#Tues2').style.backgroundColor = 'lightgreen'; 
-                    document.querySelector('table#cat3programs td#Tues2').style.backgroundColor = 'lightgreen';
+                    //document.querySelector('table#cat3programs td#Tues2').style.backgroundColor = 'lightgreen';
                 }
                 else if (hr == 12 && hr < 13) {
                     //document.querySelector('table#cat1programs td#Tues3').innerHTML = 'Literary Artistry <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -107,11 +107,11 @@ function Activate() {
                 else if (hr == 11 && hr < 12) {
                     //document.querySelector('table#cat1programs td#Wed2').innerHTML = 'Mental Arithmetic <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     //document.querySelector('table#cat2programs td#Wed2').innerHTML = 'Coding <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
-                    document.querySelector('table#cat3programs td#Wed2').innerHTML = 'Mental Arithmetic <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
+                    //document.querySelector('table#cat3programs td#Wed2').innerHTML = 'Mental Arithmetic <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
 
                     //document.querySelector('table#cat1programs td#Wed2').style.backgroundColor = 'lightgreen'; 
                     //document.querySelector('table#cat2programs td#Wed2').style.backgroundColor = 'lightgreen'; 
-                    document.querySelector('table#cat3programs td#Wed2').style.backgroundColor = 'lightgreen' 
+                    //document.querySelector('table#cat3programs td#Wed2').style.backgroundColor = 'lightgreen' 
                 }
                 else if (hr == 12 && hr < 13) {
                     //document.querySelector('table#cat1programs td#Wed3').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
@@ -125,11 +125,11 @@ function Activate() {
                 else if (hr == 12 && min >= 52 || hr == 13) {
                     //document.querySelector('table#cat1programs td#Wed4').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                     //document.querySelector('table#cat2programs td#Wed4').innerHTML = 'Literary Artistry <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
-                    document.querySelector('table#cat3programs td#Wed4').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
+                    //document.querySelector('table#cat3programs td#Wed4').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
 
                     //document.querySelector('table#cat1programs td#Wed4').style.backgroundColor = 'lightgreen'; 
                     //document.querySelector('table#cat2programs td#Wed4').style.backgroundColor = 'lightgreen'; 
-                    document.querySelector('table#cat3programs td#Wed4').style.backgroundColor = 'lightgreen'; 
+                    //document.querySelector('table#cat3programs td#Wed4').style.backgroundColor = 'lightgreen'; 
                 }
                 break;
                 case 4:
