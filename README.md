@@ -5,7 +5,7 @@
     <title>NTIC SUMMER CAMP PROGRAMS SCHEDULE</title>
     <link href="https://fonts.googleapis.com/css?family=Lato: 100,300,400,700|Luckiest+Guy|Oxygen:300,400" rel="stylesheet">
     <link href="summercamp.css" type="text/css" rel="stylesheet">
-    <script src="summercamp.js" defer></script>
+    <!--<script src="summercamp.js" defer></script>-->
 </head>
 <body>
     <ul class="navigation">
