@@ -49,14 +49,14 @@ function Activate() {
             }
             break;
             case 2:
-                if (hr == 10 && hr < 11) {
+                if (hr == 14/*10 && hr < 11*/) {
                     document.querySelector('table#cat1programs td#Tues1').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat2programs td#Tues1').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat3programs td#Tues1').innerHTML = 'Folklore <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
 
                     document.querySelector('table#cat1programs td#Tues1').style.backgroundColor = 'lightgreen'; 
                     document.querySelector('table#cat2programs td#Tues1').style.backgroundColor = 'lightgreen'; 
-                    document.querySelector('table#cat3programs td#Tues1').style.backgroundColor = 'lightgreen';
+                    document.querySelector('table#cat3programs td#Tues1').style.backgroundColor = 'lightred';
                 }
                 else if (hr == 11 && hr < 12) {
                     document.querySelector('table#cat1programs td#Tues2').innerHTML = 'Creative Thinking & Writing <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
