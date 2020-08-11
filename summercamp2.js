@@ -24,8 +24,8 @@ function Activate() {
             }
             else if (hr == 11 && hr < 12) {
                 //document.querySelector('table#cat1programs td#Mon2').innerHTML = 'Art & Craft <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
-                //document.querySelector('table#cat2programs td#Mon2').innerHTML = 'Mental Arithmetic <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
-                document.querySelector('table#cat3programs td#Mon2').innerHTML = 'Mental Arithmetic <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
+                document.querySelector('table#cat2programs td#Mon2').innerHTML = 'Mental Arithmetic <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
+                //document.querySelector('table#cat3programs td#Mon2').innerHTML = 'Mental Arithmetic <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                        
                 //document.querySelector('table#cat1programs td#Mon2').style.backgroundColor = 'lightgreen'; 
                 document.querySelector('table#cat2programs td#Mon2').style.backgroundColor = 'lightgreen';
@@ -140,7 +140,7 @@ function Activate() {
                     }
                     else if (hr == 11 && hr < 12) {
                         //document.querySelector('table#cat1programs td#Thur2').innerHTML = 'Fun Science <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
-                        document.querySelector('table#cat2programs td#Thur2').innerHTML = 'Word Skill <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
+                        document.querySelector('table#cat2programs td#Thur2').innerHTML = 'Fun Science <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
                         //document.querySelector('table#cat3programs td#Thur2').innerHTML = 'Coding <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
 
                         //document.querySelector('table#cat1programs td#Thur2').style.backgroundColor = 'lightgreen'; 
