@@ -6,7 +6,7 @@ var min = date.getMinutes();
 var hr = date.getUTCHours() + 1;//getHours();
 var dy = date.getUTCDay();//getDay();
 
-//alert(hr);
+alert(hr);
 
 function Activate() {
     switch (dy) {
