@@ -66,8 +66,8 @@
                 <tr>
                     <td>Friday</td>
                     <td id="Fri1">Fitness & <span style="font-size: 13px;">Dance</span> | <br> Mr. Rasheed</td>
-                    <td id="Fri2">Fun Science | <br> Ms. Fauziah | (Ages 11+)</td>
-                    <td id="Fri3">Virtual Vacation | <br> Ms. Thomas, Ms. Taiwo</td>
+                    <td id="Fri2">Virtual Vacation | <br> Ms. Thomas, Ms. Taiwo | (Ages 11+)</td>
+                    <td id="Fri3">Fun Science  | <br> Ms. Fauziah</td>
                     <td id="Fri4">Story Telling/Special Talent</td>
                 </tr>
               </tbody>
