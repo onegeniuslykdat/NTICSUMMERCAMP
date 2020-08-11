@@ -51,7 +51,7 @@ function Activate() {
             }
             break;
             case 2:
-                if (hr == 18/*10 && hr < 11*/) {
+                if (hr == 10 && hr < 11) {
                     //text = document.querySelector('table#catprograms td#Tues1').textContent;
                     
                     document.querySelector('table#cat1programs td#Tues1').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
