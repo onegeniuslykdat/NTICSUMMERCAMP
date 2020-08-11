@@ -190,7 +190,7 @@ function Activate() {
 
                             //document.querySelector('table#cat1programs td#Fri3').style.backgroundColor = 'lightgreen';
                             //document.querySelector('table#cat2programs td#Fri3').style.backgroundColor = 'lightgreen';
-                            /document.querySelector('table#cat3programs td#Fri3').style.backgroundColor = 'lightgreen';  
+                            //document.querySelector('table#cat3programs td#Fri3').style.backgroundColor = 'lightgreen';  
                         }
                         else if (hr == 12 && min >= 52 || hr == 13) {
                             document.querySelector('table#cat1programs td#Fri4').innerHTML = 'Story Telling or Special Talent <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
