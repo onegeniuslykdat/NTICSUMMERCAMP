@@ -173,18 +173,16 @@ function Activate() {
                             document.querySelector('table#cat3programs td#Fri1').style.backgroundColor = 'lightgreen'; 
                         }
                         else if (hr == 11 && hr < 12) {
-                            //document.querySelector('table#cat1programs td#Fri2').innerHTML = 'Fun Science (Ages 11+) <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
-                            //document.querySelector('table#cat2programs td#Fri2').innerHTML = 'Fun Science (Ages 11+) <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
-                            document.querySelector('table#cat3programs td#Fri2').innerHTML = 'Fun Science (Ages 11+) <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>'; 
+                            document.querySelector('table#cat1programs td#Fri3').innerHTML = 'Virtual Vacation <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
+                            document.querySelector('table#cat2programs td#Fri3').innerHTML = 'Virtual Vacation <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
+                            document.querySelector('table#cat3programs td#Fri3').innerHTML = 'Virtual Vacation <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
 
                             document.querySelector('table#cat1programs td#Fri2').style.backgroundColor = 'lightgreen';
                             document.querySelector('table#cat2programs td#Fri2').style.backgroundColor = 'lightgreen';
                             document.querySelector('table#cat3programs td#Fri2').style.backgroundColor = 'lightgreen'; 
                         }
                         else if (hr == 12 && hr < 13) {
-                            document.querySelector('table#cat1programs td#Fri3').innerHTML = 'Virtual Vacation <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
-                            document.querySelector('table#cat2programs td#Fri3').innerHTML = 'Virtual Vacation <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
-                            document.querySelector('table#cat3programs td#Fri3').innerHTML = 'Virtual Vacation <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>'; 
+                            document.querySelector('table#cat3programs td#Fri2').innerHTML = 'Fun Science (Ages 11+) <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';                    
 
                             document.querySelector('table#cat1programs td#Fri3').style.backgroundColor = 'lightgreen';
                             document.querySelector('table#cat2programs td#Fri3').style.backgroundColor = 'lightgreen';
