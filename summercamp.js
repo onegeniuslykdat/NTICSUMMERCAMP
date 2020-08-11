@@ -50,7 +50,7 @@ function Activate() {
             break;
             case 2:
                 if (hr == 16/*10 && hr < 11*/) {
-                    let text = document.querySelector('table#cat1programs td#Tues4').textContent;
+                    let text = document.querySelector('table#catprograms td#Tues1').textContent;
                     
                     document.querySelector('table#catprograms td#Tues1').innerHTML = text + '<a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     document.querySelector('table#cat2programs td#Tues1').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
