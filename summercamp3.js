@@ -60,7 +60,7 @@ function Activate() {
 
                     //document.querySelector('table#cat1programs td#Tues1').style.backgroundColor = 'lightgreen'; 
                     //document.querySelector('table#cat2programs td#Tues1').style.backgroundColor = 'lightgreen'; 
-                    document.querySelector('table#cat3programs td#Tues1').style.backgroundColor = 'lightblue';
+                    document.querySelector('table#cat3programs td#Tues1').style.backgroundColor = 'lightgreen';
                 }
                 else if (hr == 11 && hr < 12) {
                     //text = document.querySelector('table#catprograms td#Tues1').textContent;
