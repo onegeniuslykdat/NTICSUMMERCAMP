@@ -11,7 +11,7 @@
     <ul class="navigation">
         <li><img src="logo.png" height="70px;"></li>
         <li class="active"><a href="index.html">HOME</a></li>
-        <li><a href="Cat1.html">Ages: 5-7</a></li>
+        <li><a href="Cat1.html"><button>Ages: 5-7</button></a></li>
         <li><a href="Cat2.html">Ages: 8-10</a></li>
         <li><a href="Cat3.html">Ages: 11+</a></li>
       </ul>
