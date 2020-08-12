@@ -28,7 +28,7 @@ function Activate() {
                 //document.querySelector('table#cat3programs td#Mon2').innerHTML = 'Mental Arithmetic <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                        
                 //document.querySelector('table#cat1programs td#Mon2').style.backgroundColor = 'lightgreen'; 
-                //document.querySelector('table#cat2programs td#Mon2').style.backgroundColor = 'lightgreen';
+                //ddocument.querySelector('table#cat2programs td#Mon2').style.backgroundColor = 'lightgreen';
                 //document.querySelector('table#cat3programs td#Mon2').style.backgroundColor = 'lightgreen';
             }
             else if (hr == 12 && hr < 13) {
