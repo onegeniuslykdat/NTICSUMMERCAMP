@@ -91,7 +91,7 @@ function Activate() {
                 }
                 break;
             case 3:
-                if (hr == 14/*10 && hr < 11*/) {
+                if (hr == 10 && hr < 11) {
                     document.querySelector('table#cat1programs td#Wed1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     //document.querySelector('table#cat2programs td#Wed1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                     //document.querySelector('table#cat3programs td#Wed1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
