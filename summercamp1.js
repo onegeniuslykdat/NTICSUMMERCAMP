@@ -14,7 +14,7 @@ function Activate() {
     switch (dy) {
         case 1:
            if (hr == 10 && hr < 11) {
-                document.querySelector('table#cat1programs td#Mon1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>"';
+                document.querySelector('table#cat1programs td#Mon1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                 //document.querySelector('table#cat2programs td#Mon1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                 //document.querySelector('table#cat3programs td#Mon1').innerHTML = 'Fitness & Dance <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                        
