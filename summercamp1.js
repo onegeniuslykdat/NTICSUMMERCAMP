@@ -40,7 +40,7 @@ function Activate() {
                 //document.querySelector('table#cat2programs td#Mon3').style.backgroundColor = 'lightgreen';
                 //document.querySelector('table#cat3programs td#Mon3').style.backgroundColor = 'lightgreen';
             }
-            else if (hr == 12 && min >= 52 || hr == 13) {
+            else if ((hr == 12 && min >= 52) || (hr == 13)) {
                 document.querySelector('table#cat1programs td#Mon4').innerHTML = 'Art & Craft <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
                 //document.querySelector('table#cat2programs td#Mon4').innerHTML = 'Coding <a target="_blank" href="http://'+zoomclass2+'" id="JC"><button>JOIN CLASS</button></a>';
                 //document.querySelector('table#cat3programs td#Mon4').innerHTML = 'FolkLore <a target="_blank" href="http://'+zoomclass1+'" id="JC"><button>JOIN CLASS</button></a>';
