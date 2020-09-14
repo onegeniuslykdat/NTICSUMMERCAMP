@@ -18,7 +18,7 @@
       <div id="TitleBlock">
       </div>
       <div id="Main">
-          <h1>ALL PROGRAMS</h1>
+          <h1>WE THANK EVERYONE FOR THE SUCCESSFUL COMPLETION OF OUR SUMMER CAMP PROGRAMS</h1>
           <table id="allprograms">
               <thead>
                   <tr>
